@@ -13,7 +13,7 @@ body {
     padding: 20px;
     position: relative;
     overflow-x: hidden;
-    background-color: #FFAA00;
+    background-color: linear-gradient(135deg, #E4831E 0%, #94530e 25%, #633200 50%, #B17601 75%, #FFAA00 100%);
 }
 
 body::before {
